@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hey it's Antonius 🍡 
+
+- 🔭 I’m currently working on research projects in automation and reinforcement learning.
+- 🌱 I’m currently trying to advance my knowledge in machine learning frameworks like pytorch and RL libraries and see what cool flashy things I can build.
+- ⭐ I wonder if I'll able to bridge the gap between my hobbies and what I get paid for 😙
 
 <!--
 **AntoniusP/AntoniusP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
