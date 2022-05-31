@@ -1,4 +1,4 @@
-### Hey it's Antonius (he/him) 🍡 
+### Hey it's Antonius 🍡 
 
 - 🔭 I’m currently working on research projects in automation and reinforcement learning.
 - 🌱 I’m currently trying to advance my knowledge in machine learning frameworks like pytorch and RL libraries and see what cool flashy things I can build.
