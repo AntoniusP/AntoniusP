@@ -11,9 +11,9 @@
 #### My Stuff:
 - Preferred Languages (in descending order): Rust, Python, C++, C#, Java, C
 - Reinforcement Learning: RayRL library, Stable Baselines 3, OpenAI Gym, Unity3D, Unity ML-Agents, simulators
-- General Machine Learning: Pytorch, CNNs, GANs, RNNs, LSTMs, mode collapse
+- General Machine Learning: Pytorch, CNNs, GANs, RNNs, LSTMs, XGBoost
 - DevOps: Docker, Jira, Gitlab
-- Technical Writing: Paper on CycleGANs published on SPIE, several Tech Reports
+- Technical Writing: CycleGAN Paper (published SPIE), some tech reports
 
 <!--
 **AntoniusP/AntoniusP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
