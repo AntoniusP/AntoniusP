@@ -1,10 +1,15 @@
 ### Hey it's Antonius 🍡 
-
-- 🔭 I’m currently working on projects in automation, data science, and reinforcement learning.
-- 🌱 Trying to advance my knowledge in machine learning frameworks like pytorch and RL libraries and see what cool flashy things I can build.
+- 🦀 Currently becoming a proficient rustacean doing practice and projects in Rust.
+- 🔭 I’m working on projects in automation, data science, and reinforcement learning.
+### Interests:
+- 🌱 Using AI/ML frameworks like pytorch and RL libraries, make fun/flashy/cool tools/things.
+- 🖌️ Art, Creative Coding
+- 🎮 Games, Interactives, VR
+- 🎵 Music 
 
 
 #### My Stuff:
+- Preferred Languages (in descending order): Rust, Python, C++, C#, Java, C
 - Reinforcement Learning: RayRL library, Stable Baselines 3, OpenAI Gym, Unity3D, Unity ML-Agents, simulators
 - General Machine Learning: Pytorch, CNNs, GANs, RNNs, LSTMs, mode collapse
 - DevOps: Docker, Jira, Gitlab
