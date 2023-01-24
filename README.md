@@ -9,7 +9,7 @@
 
 
 #### My Stuff:
-- Preferred Languages (in descending order): Rust, Python, C++, C#, Java, C
+- Preferred Languages (in descending order): Python, Rust, C++, C#, C, Java 
 - Reinforcement Learning: RayRL library, Stable Baselines 3, OpenAI Gym, Unity3D, Unity ML-Agents, simulators
 - General Machine Learning: Pytorch, CNNs, GANs, RNNs, LSTMs, XGBoost
 - DevOps: Docker, Jira, Gitlab
